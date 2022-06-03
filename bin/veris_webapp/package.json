@@ -33,7 +33,7 @@
     "css-loader": "^3.2.0",
     "file-saver": "^2.0.2",
     "json-rules-engine-simplified": "^0.1.17",
-    "jszip": "^3.2.2",
+    "jszip": "^3.9.1",
     "markdown-to-jsx": "^6.10.3",
     "mobx": "^5.14.0",
     "mobx-react": "^5.4.4",
